@@ -1,6 +1,6 @@
-baseurl: ''
+baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'LLM4Eval'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
