@@ -1,9 +1,9 @@
 ---
 title: "Bhaskar Mitra"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/guglielmo.jpeg"
+image: "images/team/bhaskar.png"
 jobtitle: "Microsoft"
-linkedinurl: "#"
+linkedinurl: "https://www.linkedin.com/in/bhaskarmitra/"
 promoted: false
 weight: 9
 ---
