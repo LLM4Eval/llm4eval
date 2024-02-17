@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Large Language Model for Evaluation in IR
+# LLM4Eval @ SIGIR 2024
 
 The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval
