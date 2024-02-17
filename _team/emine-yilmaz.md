@@ -1,7 +1,7 @@
 ---
 title: "Emine Yilmaz"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/guglielmo.jpeg"
+image: "images/team/emine.jpeg"
 jobtitle: "University College London & Amazon"
 linkedinurl: "#"
 promoted: false
