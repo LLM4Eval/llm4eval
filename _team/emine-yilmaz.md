@@ -3,7 +3,7 @@ title: "Emine Yilmaz"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/emine.jpeg"
 jobtitle: "University College London & Amazon"
-linkedinurl: "#"
+linkedinurl: "https://www.linkedin.com/in/emine-yilmaz-978b937/"
 promoted: false
 weight: 11
 ---
