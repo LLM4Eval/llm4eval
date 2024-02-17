@@ -1,9 +1,9 @@
 ---
-title: "Mike Vance"
+title: "Clemencia Siro"
 date: 2018-12-20T13:44:30+10:00
-image: "images/team/joseph-gonzalez-399972-unsplash.jpg"
-jobtitle: "Art Director"
-linkedinurl: ""
+image: "images/team/clemencia.png"
+jobtitle: "University of Amsterdam"
+linkedinurl: "https://www.linkedin.com/in/clemencia-siro/"
 promoted: false
 weight: 3
 ---
