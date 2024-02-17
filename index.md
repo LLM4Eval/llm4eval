@@ -10,4 +10,4 @@ show_call_box: true
 
 # Large Language Model for Evaluation in IR
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The First Workshop on Large Language Models (LLMs) for Evaluation in Information Retrieval
