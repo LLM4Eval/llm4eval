@@ -1,8 +1,9 @@
 ---
-title: "Tamara Ells"
+title: "Mohammad Aliannejadi"
 date: 2018-12-20T13:44:55+10:00
-image: "images/team/michael-dam-258165-unsplash.jpg"
-jobtitle: "UI Designer"
+image: "images/team/mohammad.jpg"
+jobtitle: "University of Amsterdam"
+linkedinurl: "https://www.linkedin.com/in/maliannejadi/"
 promoted: false
 weight: 4
 ---
