@@ -25,42 +25,7 @@ bodyClass: "page-home"
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row">
       <h2>About The Workshop</h2>
-      Large language models (LLMs) have demonstrated increasing task-solving abilities not present in smaller models. Utilizing the capabilities and responsibilities of LLMs for automated evaluation
-(LLM4Eval) has recently attracted considerable attention in mul-
-tiple research communities. For instance, LLM4Eval models have
-been studied in the context of automated judgments, natural lan-
-guage generation, and retrieval augmented generation systems. We
-believe that the information retrieval community can significantly
-contribute to this growing research area by designing, implement-
-ing, analyzing, and evaluating various aspects of LLMs with applica-
-tions to LLM4Eval tasks. The main goal of LLM4Eval workshop is to
-bring together researchers from industry and academia to discuss
-various aspects of LLMs for evaluation in information retrieval,
-including automated judgments, retrieval-augmented generation
-pipeline evaluation, altering human evaluation, robustness, and
-trustworthiness of LLMs for evaluation in addition to their impact
-on real-world applications. We also plan to run an automated judg-
-ment challenge prior to the workshop, where participants will be
-asked to generate labels for a given dataset while maximising cor-
-relation with human judgments. The format of the workshop is
-interactive, including roundtable and keynote sessions and tends
-to avoid the one-sided dialogue of a mini-conference. Since SIGIR
-2024 will not accommodate remote participation, in addition to
-the physical workshop at SIGIR 2024, we plan a 90-minute virtual
-version of the workshop in late July, with its own invited speaker.
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
-        </div>
-      </div>
-      {% endfor %}
-
+      Large language models (LLMs) have demonstrated increasing task-solving abilities not present in smaller models. Utilizing the capabilities and responsibilities of LLMs for automated evaluation (LLM4Eval) has recently attracted considerable attention in multiple research communities. For instance, LLM4Eval models have been studied in the context of automated judgments, natural language generation, and retrieval augmented generation systems. We believe that the information retrieval community can significantly contribute to this growing research area by designing, implementing, analyzing, and evaluating various aspects of LLMs with applications to LLM4Eval tasks. The main goal of LLM4Eval workshop is to bring together researchers from industry and academia to discuss various aspects of LLMs for evaluation in information retrieval, including automated judgments, retrieval-augmented generation pipeline evaluation, altering human evaluation, robustness, and trustworthiness of LLMs for evaluation in addition to their impact on real-world applications. We also plan to run an automated judgment challenge prior to the workshop, where participants will be asked to generate labels for a given dataset while maximising correlation with human judgments. The format of the workshop is interactive, including roundtable and keynote sessions and tends to avoid the one-sided dialogue of a mini-conference. Since SIGIR 2024 will not accommodate remote participation, in addition to the physical workshop at SIGIR 2024, we plan a 90-minute virtual version of the workshop in late July, with its own invited speaker.
     </div>
   </div>
 </div>
