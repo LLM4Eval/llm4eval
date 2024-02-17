@@ -1,9 +1,9 @@
 ---
 title: "Hossein A. Rahmani"
 date: 2018-12-20T13:44:23+10:00
-image: "images/team/vince-fleming-613817-unsplash.jpg"
+image: "images/team/hossein.jpg"
 jobtitle: "University College London"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/rahmanidashti/"
 promoted: false
 weight: 3
 ---
