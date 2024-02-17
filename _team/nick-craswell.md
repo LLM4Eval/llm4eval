@@ -1,8 +1,9 @@
 ---
-title: "Susan Shelton"
+title: "Nick Craswell"
 date: 2018-12-20T13:45:06+10:00
-image: "images/team/cristian-newman-94319-unsplash.jpg"
-jobtitle: "Developer"
+image: "images/team/nick.jpeg"
+jobtitle: "Microsoft"
+linkedinurl: "https://www.linkedin.com/in/nick-craswell-b245824/"
 promoted: false
 weight: 5
 ---
