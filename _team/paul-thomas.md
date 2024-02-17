@@ -1,9 +1,9 @@
 ---
 title: "Paul Thomas"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/guglielmo.jpeg"
+image: "images/team/paul.jpeg"
 jobtitle: "Microsoft"
-linkedinurl: "#"
+linkedinurl: "https://www.microsoft.com/en-us/research/people/pathom/"
 promoted: false
 weight: 10
 ---
