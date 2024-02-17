@@ -1,10 +1,10 @@
 ---
-title: "Bill McDonald"
+title: "Charles L. A. Clarke"
 date: 2018-11-19T10:47:58+10:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
+image: "images/team/charles.jpg"
+jobtitle: "University of Waterloo"
+linkedinurl: "https://www.linkedin.com/in/charlie-clarke-7714a82/"
 promoted: false
-linkedinurl: ""
 weight: 7
 ---
 
