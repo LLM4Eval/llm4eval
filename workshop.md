@@ -18,3 +18,17 @@ More recently, with the advancement of LLMs, retrieval-augmented generation (RAG
 In natural language processing (NLP), some recent work showed that LLMs can be used as reference-free evaluators for text generation. The idea involves employing LLMs to assess the candidate output by considering its generation probability without relying on a reference target. This approach assumes that LLMs are able to assign higher probabilities to texts that are of high quality and fluency. Studies have shown that LLMs can be perfect alternatives to human evaluation on NLG tasks. Some other work showed that the way of prompting (so-called ``prompt engineering'') can enhance the LLM evaluation quality, with their proposed chain-of-thought (CoT) prompts outperforming various traditional evaluators by a large margin in terms of correlation with human evaluations.
 
 Motivated by these observations, we believe that a workshop on evaluation strategies in the world of LLMs will question whether IR and NLP are truly facing a paradigm change at the evaluation strategies. Therefore, we propose to organize a workshop with a fresh perspective on LLMs-based evaluation through an information retrieval lens. This workshop will also be a way to reflect on LLM-based evaluation benefits and challenges in academia and industry. Finally, we will encourage submissions and discussions on further evaluation topics and models, where existing literature is scarce, such as recommender systems, learning to rank, diffusion models, etc.
+
+# Theme and Scope
+
+The workshop will focus on models, techniques, data collections, and methodologies for information retrieval evaluation in the era of LLMs. These include but are not limited to:
+
+- LLM-based evaluation metrics for traditional IR and generative IR
+- Agreement between human and LLM labels
+- Effectiveness and/or efficiency of LLMs to produce robust relevance labels
+- Investigating LLM-based relevance estimators for potential systemic biases
+- Automated evaluation of text generation systems
+- End-to-end evaluation of Retrieval Augmented Generation systems
+- Trustworthiness in the world of LLMs evaluation
+- Prompt engineering in LLMs evaluation
+- Effectiveness and/or efficiency of LLMs as ranking models
