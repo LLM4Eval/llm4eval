@@ -20,6 +20,7 @@ bodyClass: "page-teams"
 
 <div class="container pt-6 pb-6">
     <div class="row pt-6 pb-6">
+        <h2>Workshop Organizers</h2>
         {% assign teams = site.team | where: "promoted", false | sort: "weight" %}
         {% for team in teams %}
         <div class="col-12 col-md-4 mb-3">
