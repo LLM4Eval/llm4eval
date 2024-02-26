@@ -1,11 +1,9 @@
 ---
-title: Call for Paper
+title: Call For Paper
 layout: page
-description: Call for Paper
+description: Call For Paper
 bodyClass: page-about
 ---
-
-# Call For Paper
 
 ## Overview
 The first workshop on evaluating IR systems with Large Language Models (LLMs) is accepting submissions that describe original research findings, preliminary research results, proposals for new work, and recent relevant studies already published in high-quality venues. The workshop will have both an in-person and virtual component, and submissions are welcome even for researchers who cannot attend in person, as they will present their work in the virtual component.
