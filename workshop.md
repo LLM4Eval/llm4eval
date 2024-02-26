@@ -6,7 +6,6 @@ bodyClass: page-about
 ---
 
 # Motivation
-
 Large language models (LLMs), like GPT-4, have demonstrated increasing effectiveness, such that a larger model performs well enough to be usable on a task where a smaller model was unusable. Recently, LLMs have been actively explored for various kinds of evaluation among other tasks. 
 
 In information retrieval (IR), among other applications, LLMs are being actively explored for estimating query-document relevance, both for ranking as well as for label generation. The latter can be subsequently used for training and evaluating other less-powerful but more-efficient rankers. For instance, HELM benchmark simultaneously generates query-document relevance labels and a ranking score. The input of the prompt is a query and document. The generated output is a yes/no label. The ranking is carried out based on the generation probabilities of the yes/no tokens. Some later work includes the HELM pointwise approach, and adds more ranking methods.
@@ -20,7 +19,6 @@ In natural language processing (NLP), some recent work showed that LLMs can be u
 Motivated by these observations, we believe that a workshop on evaluation strategies in the world of LLMs will question whether IR and NLP are truly facing a paradigm change at the evaluation strategies. Therefore, we propose to organize a workshop with a fresh perspective on LLMs-based evaluation through an information retrieval lens. This workshop will also be a way to reflect on LLM-based evaluation benefits and challenges in academia and industry. Finally, we will encourage submissions and discussions on further evaluation topics and models, where existing literature is scarce, such as recommender systems, learning to rank, diffusion models, etc.
 
 # Theme and Scope
-
 The workshop will focus on models, techniques, data collections, and methodologies for information retrieval evaluation in the era of LLMs. These include but are not limited to:
 
 - LLM-based evaluation metrics for traditional IR and generative IR
