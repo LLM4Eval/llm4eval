@@ -11,8 +11,8 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 5
-  - name: "Team"
-    url: "/team/"
+  - name: "Organisers"
+    url: "/organisers/"
     weight: 6
   - name: "About"
     url: "/about/"
