@@ -2,7 +2,7 @@ main:
   - name: "Workshop"
     url: "/workshop/"
     weight: 2
-  - name: "Call"
+  - name: "CFP"
     url: "/cfp/"
     weight: 3
   - name: "Challenge"
