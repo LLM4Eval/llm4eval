@@ -37,10 +37,10 @@ All papers will be peer-reviewed (single-blind) by the program committee and jud
 
 Please note the workshop will have an __in-person__ (to be held with SIGIR 2024) and __virtual__ component (to be held at a later date on SIGIR VF). During submission, the authors should select their preferred component. All accepted papers will have a poster presentation with a few selected for spotlight talks. Accepted papers may be uploaded to arXiv.org, allowing submission elsewhere as they will be considered non-archival. The workshop's website will maintain a link to the arXiv versions of the papers.
 
-Important Dates
-Submission Deadline: April 25th, 2024 (AoE time)
-Acceptance Notifications: May 31st, 2024 (AoE time)
-Workshop date: July 18, 2024
+## Important Dates
+- Submission Deadline: April 25th, 2024 (AoE time)
+- Acceptance Notifications: May 31st, 2024 (AoE time)
+- Workshop date: July 18, 2024
 
-Contact
-For any questions about paper submission, you may contact the workshop organizers at llm4eval@easychair.com
+## Contact
+For any questions about paper submission, you may contact the workshop organizers at <a hre="mailto:llm4eval@easychair.com">llm4eval@easychair.com</a>
