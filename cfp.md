@@ -41,4 +41,4 @@ Please note the workshop will have an __in-person__ (to be held with SIGIR 2024)
 - Workshop date: July 18, 2024
 
 ## Contact
-For any questions about paper submission, you may contact the workshop organizers at [llm4eval@easychair.com](llm4eval@easychair.com)
+For any questions about paper submission, you may contact the workshop organizers at <llm4eval@easychair.com>
