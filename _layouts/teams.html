@@ -18,9 +18,10 @@ bodyClass: "page-teams"
     </div>
 </div>
 
+
 <div class="container pt-6 pb-6">
+    <h2>Workshop Organizers</h2>
     <div class="row pt-6 pb-6">
-        <h2>Workshop Organizers</h2>
         {% assign teams = site.team | where: "promoted", false | sort: "weight" %}
         {% for team in teams %}
         <div class="col-12 col-md-4 mb-3">
@@ -41,12 +42,10 @@ bodyClass: "page-teams"
         </div>
         {% endfor %}
         <h2>Program Committee</h2>
-        <p>
         <ul>
             <li>TBD</li>
             <li>TBD</li>
             <li>...</li>
           </ul>
-        </p>
     </div>
 </div>
