@@ -8,18 +8,18 @@ main:
   - name: "Challenge"
     url: "/challenge/"
     weight: 4
-  - name: "Services"
-    url: "/services/"
-    weight: 5
+  # - name: "Services"
+  #   url: "/services/"
+  #   weight: 5
   - name: "Organisers"
     url: "/organisers/"
     weight: 6
-  - name: "About"
-    url: "/about/"
-    weight: 7
-  - name: "Contact"
-    url: "/contact/"
-    weight: 8
+  # - name: "About"
+  #   url: "/about/"
+  #   weight: 7
+  # - name: "Contact"
+  #   url: "/contact/"
+  #   weight: 8
 
 footer:
   - name: "Home"
