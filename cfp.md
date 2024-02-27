@@ -1,5 +1,5 @@
 ---
-title: Call For Paper
+title: LLM4Eval - Call For Paper
 layout: page
 description: Call For Paper
 bodyClass: page-about
