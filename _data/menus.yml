@@ -8,7 +8,7 @@ main:
   - name: "Challenge"
     url: "/challenge/"
     weight: 4
-  - name: "Virtual"
+  - name: "Virtual Event"
     url: "/virtual/"
     weight: 5
   - name: "Organisers"
