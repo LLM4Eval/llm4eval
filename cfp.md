@@ -29,7 +29,7 @@ We welcome the following submissions:
 - __Previously unpublished manuscripts__ will be accepted as extended abstracts and full papers (any length between 1 - 9 pages) with unlimited references, formatted according to the latest ACM SIG proceedings template available at http://www.acm.org/publications/proceedings-template. 
 - __Published manuscripts__ can be submitted in their original format.
 
-All submissions should be made through Easychair: https://easychair.org/conferences/?conf=llm4eval
+All submissions should be made through Easychair: <https://easychair.org/conferences/?conf=llm4eval>
 
 All papers will be peer-reviewed (single-blind) by the program committee and judged by their relevance to the workshop, especially to the main themes identified above, and their potential to generate discussion. For already published studies, the paper can be submitted in the original format. These submissions will be reviewed for their relevance to this workshop. All submissions must be in English (PDF format).
 
