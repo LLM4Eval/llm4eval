@@ -38,9 +38,11 @@ All papers will be peer-reviewed (single-blind) by the program committee and jud
 All accepted papers will have a poster presentation with a few selected for spotlight talks. Accepted papers may be uploaded to arXiv.org, allowing submission elsewhere as they will be considered non-archival. The workshop's website will maintain a link to the arXiv versions of the papers.
 
 ## Important Dates
-- Submission Deadline: April 25th, 2024 (AoE time)
-- Acceptance Notifications: May 31st, 2024 (AoE time)
+- Submission Deadline: ~~April 25th, 2024~~ May 2, 2024
+- Acceptance Notifications: May 31st, 2024
 - Workshop date: July 18, 2024
+
+(All time are in AoE time)
 
 ## Contact
 For any questions about paper submission, you may contact the workshop organizers at <llm4eval@easychair.org>
