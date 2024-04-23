@@ -35,6 +35,7 @@ All submissions should be made through Easychair: [https://easychair.org/confere
 All papers will be peer-reviewed (single-blind) by the program committee and judged by their relevance to the workshop, especially to the main themes identified above, and their potential to generate discussion. For already published studies, the paper can be submitted in the original format. These submissions will be reviewed for their relevance to this workshop. All submissions must be in English (PDF format).
 
 <!-- Please note the workshop will have an __in-person__ (to be held with SIGIR 2024) and __virtual__ component (to be held at a later date on SIGIR VF). During submission, the authors should select their preferred component. -->
+All accepted papers will have a poster presentation with a few selected for spotlight talks. Accepted papers may be uploaded to arXiv.org, allowing submission elsewhere as they will be considered non-archival. The workshop's website will maintain a link to the arXiv versions of the papers.
 
 ## Important Dates
 - Submission Deadline: April 25th, 2024 (AoE time)
