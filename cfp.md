@@ -6,7 +6,8 @@ bodyClass: page-about
 ---
 
 ## Overview
-The first workshop on evaluating IR systems with Large Language Models (LLMs) is accepting submissions that describe original research findings, preliminary research results, proposals for new work, and recent relevant studies already published in high-quality venues. The workshop will have both an in-person and virtual component, and submissions are welcome even for researchers who cannot attend in person, as they will present their work in the virtual component.
+The first workshop on evaluating IR systems with Large Language Models (LLMs) is accepting submissions that describe original research findings, preliminary research results, proposals for new work, and recent relevant studies already published in high-quality venues. 
+<!-- The workshop will have both an in-person and virtual component, and submissions are welcome even for researchers who cannot attend in person, as they will present their work in the virtual component. -->
 
 ## Topics of interest
 We welcome both __full papers__ and __extended abstract__ submissions on the following topics, including but not limited to:
