@@ -22,8 +22,8 @@ The task is, by providing to the participants the datasets that include quereis,
 
 ## How to participate?
 - In order to get to the leaderboard please register your team here.
-- The datasets, baselines and evaluation scripts are available in the following repository: [Add the repository here]
-- Email us if you have any questions: [Add an email address here]
+- The datasets, baselines and evaluation scripts are available in the following repository: [https://github.com/llm4eval/LLMJudge](https://github.com/llm4eval/LLMJudge)
+- Email us if you have any questions: [hossein.rahmani.22@ucl.ac.uk](hossein.rahmani.22@ucl.ac.uk)
 
 ## LLMJudge Data
 
