@@ -23,7 +23,7 @@ The task is, by providing to the participants the datasets that include quereis,
 ## How to participate?
 - In order to get to the leaderboard please register your team here.
 - The datasets, baselines and evaluation scripts are available in the following repository: [https://github.com/llm4eval/LLMJudge](https://github.com/llm4eval/LLMJudge)
-- Email us if you have any questions: [hossein.rahmani.22@ucl.ac.uk](hossein.rahmani.22@ucl.ac.uk)
+- Email us if you have any questions: [hossein.rahmani.22@ucl.ac.uk](mailto:hossein.rahmani.22@ucl.ac.uk)
 
 ## LLMJudge Data
 
@@ -41,8 +41,15 @@ Participants’ results will then be compared in two ways after submission:
 - automated evaluation metrics on human labels in the test set hidden from the participants;
 - system ordering evaluation of multiple search systems on human judgments and LLM-based judgments
 
+## Submission
+We will use Google Forms for submissions. Submissions are open at __[Google From link here]__. We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. Each team is allowed to send a maximum of one run. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
+
+```
+<query_id> 0 <passage_id> <relevance_score>
+```
+
 ## Timeline
-- Data Release: May 30, 2024
-- Submission Deadline: Up until June 30, 2024 participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
-- Overview of Results: The overview of results will be at LLM4Eval@SIGIR2024 which will take place on July 14-18 (exact details TBD).
+- Data Release: __May 30, 2024__
+- Submission Deadline: Up until __June 30, 2024__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
+- Overview of Results: The overview of results will be at LLM4Eval@SIGIR2024 which will take place on __July 14-18__ (exact details TBD).
 
