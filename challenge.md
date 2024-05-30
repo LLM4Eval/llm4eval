@@ -40,3 +40,9 @@ Note that all TXT files are tab-separated.
 Participants’ results will then be compared in two ways after submission:
 - automated evaluation metrics on human labels in the test set hidden from the participants;
 - system ordering evaluation of multiple search systems on human judgments and LLM-based judgments
+
+## Timeline
+- Data Release: May 30, 2024
+- Submission Deadline: Up until June 30, 2024 participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
+- Overview of Results: The overview of results will be at LLM4Eval@SIGIR2024 which will take place on July 14-18 (exact details TBD).
+
