@@ -48,7 +48,7 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 <query_id> 0 <passage_id> <relevance_score>
 ```
 
-Note that each team is allowed to send several submissions. We also encourage running the same prompt on the same model for reproducibility purposes.
+> Note that each team is allowed to send several submissions. We also encourage running the same prompt on the same model for reproducibility purposes.
 
 ## Timeline
 - Data Release: __May 30, 2024__
