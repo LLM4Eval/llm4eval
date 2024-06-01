@@ -42,11 +42,13 @@ Participants’ results will then be compared in two ways after submission:
 - system ordering evaluation of multiple search systems on human judgments and LLM-based judgments
 
 ## Submission
-We will use Google Forms for submissions. Submissions are open at __[https://forms.gle/SmbW5nYZ89gowBN17](https://forms.gle/SmbW5nYZ89gowBN17)__. We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. Each team is allowed to send a maximum of one run. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
+We will use Google Forms for submissions. Submissions are open at __[https://forms.gle/SmbW5nYZ89gowBN17](https://forms.gle/SmbW5nYZ89gowBN17)__. We provide a step-by-step Google Form to submit the detailed submission files. Please do not hesitate to contact us in case of questions and/or problems. The final results file should be formatted similarly to the challenge test file including one extra column for the LLM-generated labels for each sample:
 
 ```
 <query_id> 0 <passage_id> <relevance_score>
 ```
+
+Note that each team is allowed to send several submissions. We also encourage running the same prompt on the same model for reproducibility purposes.
 
 ## Timeline
 - Data Release: __May 30, 2024__
