@@ -21,7 +21,7 @@ The challenge will be, given the query and document as input, how they are relev
 The task is, by providing to the participants the datasets that include quereis, documents, and query-document file, to ask LLMs to generate a score [0, 1, 2, 3] indicating the relevancy of query to document.
 
 ## How to participate?
-- In order to get to the leaderboard please register your team here.
+- Teams do not need the registration before the submission, you will need to register your team when you are submissing your results using the Google Form link provided in the [Submission](#submission) section.
 - The datasets, baselines and evaluation scripts are available in the following repository: [https://github.com/llm4eval/LLMJudge](https://github.com/llm4eval/LLMJudge)
 - Email us if you have any questions: [hossein.rahmani.22@ucl.ac.uk](mailto:hossein.rahmani.22@ucl.ac.uk)
 
