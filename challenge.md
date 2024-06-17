@@ -23,7 +23,7 @@ The task is, by providing to the participants the datasets that include quereis,
 ## How to participate?
 - Teams do not need the registration before the submission, you will need to register your team when you are submissing your results using the Google Form link provided in the [Submission](#submission) section.
 - The datasets, baselines and evaluation scripts are available in the following repository: [https://github.com/llm4eval/LLMJudge](https://github.com/llm4eval/LLMJudge)
-- Email us if you have any questions: [hossein.rahmani.22@ucl.ac.uk](mailto:hossein.rahmani.22@ucl.ac.uk)
+- Please check [Frequenty Asked Questions (FAQs)](#frequenty-asked-questions-faqs) section or email us if you have any questions: [hossein.rahmani.22@ucl.ac.uk](mailto:hossein.rahmani.22@ucl.ac.uk)
 
 ## LLMJudge Data
 
