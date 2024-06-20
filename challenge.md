@@ -53,13 +53,14 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 
 > Note that each team is allowed to send several submissions. We also encourage running the same prompt on the same model for reproducibility purposes.
 
-### Submission Form (Required Information)
-#### Section 1: Team information
+## Submission Form (Required Information)
+
+### Section 1: Team information
 1. Team Name/ID
 2. Team Members
 3. Email
 
-#### Section 2: Submission of detailed information
+### Section 2: Submission of detailed information
 1. Which LLM did you use for the challenge?
 2. What is the size of the LLM?
 3. Which prompting technique did you use? For example, Chain-of-Thoughts, or you can refer to paper.
@@ -71,7 +72,7 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 6. Original output file before post-processing to get the final judgments (No. of generated tokens)
 7. Please add a description of the main idea, your experience, interesting findings, or any thoughts that they would like to share with us 
 
-#### Section 3: Final result file Submission
+### Section 3: Final result file Submission
 1. Final Submission File. Please upload your final result file.
 
 ## Timeline
