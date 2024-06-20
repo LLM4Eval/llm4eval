@@ -53,6 +53,31 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 
 > Note that each team is allowed to send several submissions. We also encourage running the same prompt on the same model for reproducibility purposes.
 
+### Submission Form (Required Information)
+
+#### Section #1: Team information
+
+1. Team Name/ID
+2. Team Members
+3. Email
+
+#### Section #2: Submission of detailed information
+
+1. Which LLM did you use for the challenge?
+2. What is the size of the LLM?
+3. Which prompting technique did you use? For example, Chain-of-Thoughts, or you can refer to paper.
+4. Please upload the prompt you used for the challenge in a text file here.
+5. Time Analysis. Please add time in seconds and if one of these times is not applied to your submission please consider it 0. Here are the time criteria that we would like to consider:
+    - Running/Inference time
+    - Fine-tuning time
+    - Training time
+6. Original output file before post-processing to get the final judgments (No. of generated tokens)
+7. Please add a description of the main idea, your experience, interesting findings, or any thoughts that they would like to share with us 
+
+#### Section #3: Final result file Submission
+
+1. Final Submission File. Please upload your final result file.
+
 ## Timeline
 - Data Release: __May 30, 2024__
 - Submission Deadline: Up until __June 30, 2024__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
