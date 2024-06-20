@@ -55,13 +55,13 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 
 ### Submission Form (Required Information)
 
-#### Section #1: Team information
+#### Section 1: Team information
 
 1. Team Name/ID
 2. Team Members
 3. Email
 
-#### Section #2: Submission of detailed information
+#### Section 2: Submission of detailed information
 
 1. Which LLM did you use for the challenge?
 2. What is the size of the LLM?
@@ -74,7 +74,7 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 6. Original output file before post-processing to get the final judgments (No. of generated tokens)
 7. Please add a description of the main idea, your experience, interesting findings, or any thoughts that they would like to share with us 
 
-#### Section #3: Final result file Submission
+#### Section 3: Final result file Submission
 
 1. Final Submission File. Please upload your final result file.
 
