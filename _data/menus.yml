@@ -11,9 +11,12 @@ main:
   - name: "Accepted Papers"
     url: "/papers/"
     weight: 5
+  - name: "Program"
+    url: "/program/"
+    weight: 6
   - name: "Organisers"
     url: "/organisers/"
-    weight: 6
+    weight: 7
   # - name: "About"
   #   url: "/about/"
   #   weight: 7
@@ -25,6 +28,6 @@ footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
+  # - name: "Contact"
+  #   url: "/contact/"
+  #   weight: 2
