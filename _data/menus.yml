@@ -8,12 +8,12 @@ main:
   - name: "Challenge"
     url: "/challenge/"
     weight: 4
-  # - name: "Virtual Event"
-    # url: "/virtual/"
-    # weight: 5
+  - name: "Accepted Papers"
+    url: "/papers/"
+    weight: 5
   - name: "Organisers"
     url: "/organisers/"
-    weight: 5
+    weight: 6
   # - name: "About"
   #   url: "/about/"
   #   weight: 7
