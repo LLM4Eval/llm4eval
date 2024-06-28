@@ -80,6 +80,8 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 - Submission Deadline: Up until __June 30, 2024__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
 - Overview of Results: The overview of results will be at LLM4Eval@SIGIR2024 which will take place on __July 14-18__ (exact details TBD).
 
+_All deadlines are 11.59 pm UTC -12h ("Anywhere on Earth")._
+
 ## Frequenty Asked Questions (FAQs)
 
 > **1. (Model Usage)** Are we allowed to use different models for our submissions, or is there a specific model that we must use?
