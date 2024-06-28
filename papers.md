@@ -43,7 +43,7 @@ bodyClass: page-about
     * Gabriel de Jesus and Sérgio Nunes
 - __A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation__
     * Weijia Zhang, Mohammad Aliannejadi, Jiahuan Pei, Yifei Yuan, Jia-Hong Huang and Evangelos Kanoulas	
-- __Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework__
+- __[Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework](https://arxiv.org/abs/2406.14783){:target="_blank" rel="noopener"}__
     * Zackary Rackauckas, Arthur Câmara and Jakub Zavrel										
 - __Enhancing Demographic Diversity in Test Collections Using LLMs__
     * Marwah Alaofi, Nicola Ferro, Paul Thomas, Falk Scholer and Mark Sanderson
