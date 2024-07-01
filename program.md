@@ -13,7 +13,7 @@ The detailed program will be anounced soon.
 
 ## TBD
 
-<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Ian Soboroff__, NIST
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Ian Soboroff__, National Institute of Standards and Technology (NIST)
 
 __Abstract.__ TBD
 
