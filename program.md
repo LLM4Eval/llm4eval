@@ -13,7 +13,7 @@ The detailed program will be anounced soon.
 
 ## TBD
 
-Ian Soboroff
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Ian Soboroff__, NIST
 
 __Abstract.__ TBD
 
@@ -21,7 +21,7 @@ __Bio.__ TBD
 
 ## LLMs as Rankers, Raters, and Rewarders
 
-<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/don1.png" /> __Donald Metzler__, Google DeepMind
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/don1.png"/> __Donald Metzler__, Google DeepMind
 
 __Abstract.__ In this talk, I will discuss recent advancements in the application of large language models (LLMs) to ranking, rating, and reward modeling, particularly in the context of information retrieval tasks. I will emphasize the fundamental similarities among these problems, highlighting that they essentially address the same underlying issue but through different approaches. Based on this observation, I propose several research questions that offer promising avenues for future exploration.
 
