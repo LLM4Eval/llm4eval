@@ -77,7 +77,7 @@ We will use Google Forms for submissions. Submissions are open at __[https://for
 
 ## Timeline
 - Data Release: __May 30, 2024__
-- Submission Deadline: Up until __June 30, 2024__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
+- Submission Deadline: Up until ~~June 30, 2024~~ __July 07, 2024__ participants will be able to submit their results and solutions to be evaluated on the test set using automated metrics (which we will run on our servers).
 - Overview of Results: The overview of results will be at LLM4Eval@SIGIR2024 which will take place on __July 14-18__ (exact details TBD).
 
 _All deadlines are 11.59 pm UTC -12h ("Anywhere on Earth")._
