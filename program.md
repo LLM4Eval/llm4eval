@@ -17,7 +17,7 @@ The detailed program will be anounced soon.
 
 __Abstract.__ TBD
 
-__Bio.__ Dr. Ian Soboroff is a computer scientist and leader of the Retrieval Group at the National Institute of Standards and Technology (NIST). The Retrieval Group organizes the Text REtrieval Conference (TREC), the Text Analysis Conference (TAC), and the TREC Video Retrieval Evaluation (TRECVID). These are all large, community-based research workshops that drive the state-of-the-art in information retrieval, video search, web search, information extraction, text summarization and other areas of information access. He has co-authored many publications in information retrieval evaluation, test collection building, text filtering, collaborative filtering, and intelligent software agents. His current research interests include building test collections for social media environments and nontraditional retrieval tasks.
+__Bio.__ Ian Soboroff is a computer scientist and leader of the Retrieval Group at the National Institute of Standards and Technology (NIST). The Retrieval Group organizes the Text REtrieval Conference (TREC), the Text Analysis Conference (TAC), and the TREC Video Retrieval Evaluation (TRECVID). These are all large, community-based research workshops that drive the state-of-the-art in information retrieval, video search, web search, information extraction, text summarization and other areas of information access. He has co-authored many publications in information retrieval evaluation, test collection building, text filtering, collaborative filtering, and intelligent software agents. His current research interests include building test collections for social media environments and nontraditional retrieval tasks.
 
 ## LLMs as Rankers, Raters, and Rewarders
 
