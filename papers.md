@@ -39,7 +39,7 @@ bodyClass: page-about
     * Navid Mehrdad, Hrushikesh Mohapatra, Mossaab Bagdouri, Prijith Chandran, Alessandro Magnani, Xunfan Cai, Ajit Puthenputhussery, Sachin Yadav, Tony Lee, Chengxiang Zhai and Ciya Liao
 - __Evaluating the Retrieval Component in LLM-Based Question Answering Systems__
     * Ashkan Alinejad, Krtin Kumar and Ali Vahdat
-- __Exploring Large Language Models for Relevance Judgments in Tetun__
+- __[Exploring Large Language Models for Relevance Judgments in Tetun](https://arxiv.org/abs/2406.07299v1){:target="_blank" rel="noopener"}__
     * Gabriel de Jesus and Sérgio Nunes
 - __A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation__
     * Weijia Zhang, Mohammad Aliannejadi, Jiahuan Pei, Yifei Yuan, Jia-Hong Huang and Evangelos Kanoulas	
