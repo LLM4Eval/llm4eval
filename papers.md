@@ -23,7 +23,7 @@ bodyClass: page-about
     * James Mayfield, Eugene Yang, Dawn Lawrie, Sean MacAvaney, Paul McNamee, Douglas W. Oard, Luca Soldaini, Ian Soboroff, Orion Weller, Efsun Kayi, Kate Sanders, Marc Mason and Noah Hibbler
 - __Toward Automatic Relevance Judgment using Vision–Language Models for Image–Text Retrieval Evaluation__
     * Jheng-Hong Yang and Jimmy Lin	
-- __Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I.__
+- __[Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I.](https://arxiv.org/abs/2407.02464){:target="_blank" rel="noopener"}__
     * Harrie Oosterhuis, Rolf Jagerman, Zhen Qin, Xuanhui Wang and Michael Bendersky	
 - __[Selective Fine-tuning on LLM-labeled Data May Reduce Reliance on Human Annotation: A Case Study Using Schedule-of-Event Table Detection](https://www.arxiv.org/abs/2405.06093){:target="_blank" rel="noopener"}__
     * Bhawesh Kumar, Jonathan Amar, Eric Yang, Nan Li and Yugang Jia	
