@@ -12,14 +12,14 @@ The detailed program will be anounced soon.
 | Time          | Agenda                            |
 | ------------- | --------------------------------- |
 | 9:00 - 9:15   | Opening remarks                   |
-| 9:15 - 10:00  | Keynote 1: Ian Soboroff, NIST     |
+| 9:15 - 10:00  | Keynote 1: __Ian Soboroff, NIST__     |
 | 10:00 - 10:30 | Booster talks #1                  |
 | 10:30 - 11:00 | Coffee break                      |
 | 11:00 - 11:30 | Booster talks #2                  |
 | 11:30 - 12:30 | Poster session                    |
-| 12:30 - 13:30 | Lunch                            |
+| 12:30 - 13:30 | Lunch                             |
 | 13:30 - 14:15 | Keynote 2: Donald Metzler, Google |
-| 14:15 - 14:30 | Challenge report: 15 mins         |
+| 14:15 - 14:30 | LLMJudge Presentation             |
 | 14:30 - 14:40 | Discussion kickoff                |
 | 14:40 - 15:00 | Breakout discussions              |
 | 15:00 - 15:30 | Coffee break                      |
