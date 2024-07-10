@@ -9,6 +9,14 @@ LLM4Eval is colocated with SIGIR 2024 in Washington D.C., USA and takes place on
 
 The detailed program will be anounced soon.
 
+| Time      | Agenda   |
+| --------- | --------------- |
+| 9:00 - 9:15   | Opening remarks |
+| 9:15 - 10:00 | Keynote 1: Ian Soboroff, NIST |
+| 10:00 - 10:30  | Booster talks #1 |
+| 10:30 - 11:00  | Coffee break |
+| 11:00 - 11:30  | Booster talks #2 |
+
 # Keynotes
 
 ## A Brief History of Automatic Evaluation in IR
