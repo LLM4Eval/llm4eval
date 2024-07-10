@@ -54,6 +54,6 @@ __Bio.__ Donald Metzler is a Senior Staff Research Scientist at Google Inc. Prio
 
 <img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Ian Soboroff__, National Institute of Standards and Technology (NIST)
 
-<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Laura Dietz__, University of New Hampshire
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/lauradietz.jpg"/> __Laura Dietz__, University of New Hampshire
 
-<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Michael Ekstrand__, Drexel University
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/ekstrand.jpg"/> __Michael Ekstrand__, Drexel University
