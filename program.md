@@ -12,10 +12,10 @@ The detailed program will be anounced soon.
 | Time          | Agenda                            |
 | ------------- | --------------------------------- |
 | 9:00 - 9:15   | Opening Remarks                   |
-| 9:15 - 10:00  | Keynote 1: __Ian Soboroff, NIST__     |
-| 10:00 - 10:30 | Booster Talks #1                  |
+| 9:15 - 10:00  | Keynote 1: __Ian Soboroff, NIST__ |
+| 10:00 - 10:30 | Booster Talks 1                  |
 | 10:30 - 11:00 | Coffee Break                      |
-| 11:00 - 11:30 | Booster Talks #2                  |
+| 11:00 - 11:30 | Booster Talks 2                  |
 | 11:30 - 12:30 | Poster Session                    |
 | 12:30 - 13:30 | Lunch                             |
 | 13:30 - 14:15 | Keynote 2: __Donald Metzler, Google__ |
