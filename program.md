@@ -17,7 +17,7 @@ The detailed program will be anounced soon.
 | 10:30 - 11:00 | Coffee break                      |
 | 11:00 - 11:30 | Booster talks #2                  |
 | 11:30 - 12:30 | Poster session                    |
-| 12:30 - 13:30 | Launch                            |
+| 12:30 - 13:30 | Lunch                            |
 | 13:30 - 14:15 | Keynote 2: Donald Metzler, Google |
 | 14:15 - 14:30 | Challenge report: 15 mins         |
 | 14:30 - 14:40 | Discussion kickoff                |
@@ -47,3 +47,13 @@ __Bio.__ Ian Soboroff is a computer scientist and leader of the Retrieval Group 
 __Abstract.__ In this talk, I will discuss recent advancements in the application of large language models (LLMs) to ranking, rating, and reward modeling, particularly in the context of information retrieval tasks. I will emphasize the fundamental similarities among these problems, highlighting that they essentially address the same underlying issue but through different approaches. Based on this observation, I propose several research questions that offer promising avenues for future exploration.
 
 __Bio.__ Donald Metzler is a Senior Staff Research Scientist at Google Inc. Prior to that, he was a Research Assistant Professor at the University of Southern California (USC) and a Senior Research Scientist at Yahoo!. He has served as the Program Chair of the WSDM, ICTIR, and OAIR conferences and sat on the editorial boards of all the major journals in his field. He has published over 100 research papers, has been awarded 9 patents, and is a co-author of "Search Engines: Information Retrieval in Practice". He currently leads a research group focused on a variety of problems at the intersection of machine learning, natural language processing, and information retrieval.
+
+# Panelists
+
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/charles.jpg"/> __Charles Clarke__, University of Waterloo
+
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Ian Soboroff__, National Institute of Standards and Technology (NIST)
+
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Laura Dietz__, XXX
+
+<img style="vertical-align:middle" width="100px" height="80px" src="../images/team/Ian.jpg"/> __Michael Ekstrand__, XX
