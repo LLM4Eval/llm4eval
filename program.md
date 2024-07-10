@@ -18,8 +18,8 @@ The detailed program will be anounced soon.
 | 11:00 - 11:30 | Booster Talks #2                  |
 | 11:30 - 12:30 | Poster Session                    |
 | 12:30 - 13:30 | Lunch                             |
-| 13:30 - 14:15 | Keynote 2: Donald Metzler, Google |
-| 14:15 - 14:30 | LLMJudge Presentation             |
+| 13:30 - 14:15 | Keynote 2: __Donald Metzler, Google__ |
+| 14:15 - 14:30 | *LLMJudge* Presentation             |
 | 14:30 - 14:40 | Discussion Kickoff                |
 | 14:40 - 15:00 | Breakout Discussions              |
 | 15:00 - 15:30 | Coffee Break                      |
