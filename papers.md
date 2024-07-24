@@ -37,8 +37,6 @@ bodyClass: page-about
     * Chuan Meng, Negar Arabzadeh, Arian Askari, Mohammad Aliannejadi and Maarten de Rijke
 - __[Large Language Models for Relevance Judgment in Product Search](https://arxiv.org/abs/2406.00247){:target="_blank" rel="noopener"}__
     * Navid Mehrdad, Hrushikesh Mohapatra, Mossaab Bagdouri, Prijith Chandran, Alessandro Magnani, Xunfan Cai, Ajit Puthenputhussery, Sachin Yadav, Tony Lee, Chengxiang Zhai and Ciya Liao
-- __[Evaluating the Retrieval Component in LLM-Based Question Answering Systems](https://arxiv.org/abs/2406.06458){:target="_blank" rel="noopener"}__
-    * Ashkan Alinejad, Krtin Kumar and Ali Vahdat
 - __[Exploring Large Language Models for Relevance Judgments in Tetun](https://arxiv.org/abs/2406.07299v1){:target="_blank" rel="noopener"}__
     * Gabriel de Jesus and Sérgio Nunes
 - __A Comparative Analysis of Faithfulness Metrics and Humans in Citation Evaluation__
