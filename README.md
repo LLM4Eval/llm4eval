@@ -1,4 +1,6 @@
-# LLM4EVal
- Large Language Model for Evaluation in IR
+# Title
+Large Language Model for Evaluation in IR
 
- SIGIR 2024
+# Edition
+- [SIGIR 2024](https://llm4eval.github.io/SIGIR2024/)
+- [WSDM 2025](https://llm4eval.github.io/WSDM2025/)
