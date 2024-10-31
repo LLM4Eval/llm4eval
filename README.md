@@ -1,4 +1,4 @@
-# Title
+# Workshop Title
 Large Language Model for Evaluation in IR
 
 # Edition
